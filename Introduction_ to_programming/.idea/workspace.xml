@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0fce04c-006b-4e44-a479-3315ea720fc6" name="Changes" comment="Generated">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_1/average.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_1/factorial.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_2/Average_array.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_2/Difference_index_max_min_array.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_2/FizzBuzz.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_2/Index_max_min_array.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_2/Reverse_array.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_3/Cod_ for_diagram.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_ to_programming/Seminar_3/Diagram_from_code.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_1_kod/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_1_kod/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_2_kod/Average_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_2_kod/Difference_index_min_max_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_2_kod/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_2_kod/Index_min_max_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_2_kod/Reverse_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_3_kod/Count_maximal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
